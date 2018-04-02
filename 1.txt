@@ -1,1 +1,2 @@
 This is my new file in server
+This is my new line from local repository
